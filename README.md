@@ -13,7 +13,15 @@ to the bussiness
 
 ## Technologies:
 
-Twitter API, Kafka, Spark, Cassandra, Flask
+Twitter API, Kafka, Spark, MySQL, Flask
+
+## Primary Engineering Challenges:
+Some of the primary engineering challenges are 
+1. latency - the minimum time required to traverse end to end pipeline
+2. Stemming and Tokenizing tweets for common brands
 
 ## Proposed Architecture:
 
+
+## Quantitative specifications/constraints
+Optimize number of tweets processed per minute.
