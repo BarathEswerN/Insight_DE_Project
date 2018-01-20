@@ -24,4 +24,5 @@ Some of the primary engineering challenges are
 ![Screenshot](Capture.PNG)
 
 ## Quantitative specifications/constraints
-Optimize number of tweets processed per minute.
+Optimize number of tweets processed per minute, throughput and latency.
+Yet to be estimated.
