@@ -6,10 +6,10 @@ To analyze and classify the brand reviews based on streaming twitter data.
 
 ## Purpose and Use case:
 
-This application provides feedback to bussiness based on user reviews. 
+This application provides feedback to business based on user reviews. 
 
 To build an end-to-end data pipeline to analyse the reviews of each brand and to provide some insight about the user views
-to the bussiness 
+to the business 
 
 ## Technologies:
 
@@ -21,8 +21,7 @@ Some of the primary engineering challenges are
 2. Stemming and Tokenizing tweets for common brands
 
 ## Proposed Architecture:
-![Screenshot](Capture.PNG)
+
 
 ## Quantitative specifications/constraints
-Optimize number of tweets processed per minute, throughput and latency.
-Yet to be estimated.
+Optimize number of tweets processed per minute.
