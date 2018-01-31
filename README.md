@@ -21,7 +21,7 @@ Some of the primary engineering challenges are
 2. Stemming and Tokenizing tweets for common brands
 
 ## Proposed Architecture:
-
+![Screenshot](Capture.PNG)
 
 ## Quantitative specifications/constraints
 Optimize number of tweets processed per minute.
